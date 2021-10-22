@@ -167,7 +167,7 @@ p{
 }
 
 
-@media screen and (max-width: 600px) {
+@media all and (max-width: 600px) {
   .todo-options{
     position:relative;
     width:100%;
